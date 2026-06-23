@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+placepilot.db
+**/placepilot.db
+**/*.pyc
+**/__pycache__/
+*.pkl
+frontend/dist/
+.env
+.DS_Store
+dist/
+build/

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+bcrypt
+pandas
+numpy
+scikit-learn
+groq
+SpeechRecognition
+pydub
