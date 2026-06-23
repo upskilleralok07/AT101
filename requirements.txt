@@ -9,3 +9,4 @@ scikit-learn
 groq
 SpeechRecognition
 pydub
+email-validator
