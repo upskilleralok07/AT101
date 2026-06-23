@@ -1,7 +1,9 @@
 [build]
-  base    = "frontend"
-  command = "npm install && npm run build"
-  publish = "dist"
+  command = "npm install && cd frontend && npm install && npm run build"
+  publish = "frontend/dist"
+
+[functions]
+  directory = "netlify/functions"
 
 [[headers]]
   for = "/*"
